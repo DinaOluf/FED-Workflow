@@ -1,3 +1,3 @@
-# Git Tutorial
+# Git CLI Tutorial
 
-> This line of text is intended to create a merge conflict. It should not remain in the final version!
+This repository is for a Noroff Git Tutorial.
